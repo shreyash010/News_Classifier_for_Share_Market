@@ -28,9 +28,9 @@ To convert the text data into a format suitable for machine learning models, we 
 We implemented several classification models to predict the category of news headlines. The models were trained on the preprocessed and TF-IDF transformed data. The accuracy of these models is as follows:
 
 - Logistic Regression: 78.12%
-- Linear Support Vector Classifier (LinearSVC): 79.77%
-- Polynomial Support Vector Classifier (SVC)
-- Radial Basis Function Support Vector Classifier (SVC)
+- Linear Support Vector Classifier (LinearSVC): 77.99%
+- Polynomial Support Vector Classifier (SVC): 79.77%
+- Radial Basis Function Support Vector Classifier (SVC): 79.64%
 
 ## Getting Started
 
